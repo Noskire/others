@@ -1,4 +1,9 @@
-img:hover {
-  -webkit-transform: scaleX(-1);
-  transform: scaleX(-1);
+img{
+  max-width: 20%;
+  height: auto;
+}
+
+img:hover{
+  max-width: 100%;
+  height: auto;
 }
