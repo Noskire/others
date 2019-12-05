@@ -14,12 +14,12 @@
 }
 
 img{
-  color: black;
-  background-color: white;
-  transform: scale(1, 1);
+    max-width: 20%;
+    height: auto;
 }
 
 img:hover{
-  transform: scale(2, 2);
+    max-width: 100%;
+    height: auto;
 }
 
