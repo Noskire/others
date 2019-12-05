@@ -13,12 +13,13 @@
     text-shadow: 1px 1px 0px black;
 }
 
-#pokeball{
+img{
   color: black;
   background-color: white;
   transform: scale(0.1, 0.1);
 }
 
-#pokeball:hover{
+img:hover{
   transform: scale(1, 1);
 }
+
