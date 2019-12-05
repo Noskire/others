@@ -1,7 +1,7 @@
-.btimg{
+#pokeball{
   tranform: scale(0.1, 0.1);
 }
 
-.btimg:hover{
+#pokeball:hover{
   transform: scale(1, 1);
 }
