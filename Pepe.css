@@ -1,4 +1,6 @@
 #pokeball{
+  color: black;
+  background-color: white;
   tranform: scale(0.1, 0.1);
 }
 
