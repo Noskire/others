@@ -16,10 +16,10 @@
 img{
   color: black;
   background-color: white;
-  transform: scale(0.1, 0.1);
+  transform: scale(1, 1);
 }
 
 img:hover{
-  transform: scale(1, 1);
+  transform: scale(2, 2);
 }
 
