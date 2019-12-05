@@ -1,25 +1,4 @@
-#geral{
-    width: 500px;
-    background-color: #FFF1B7;
-    color: black;
-    margin-left: auto;
-    margin-right: auto;
+img:hover {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
 }
-
-#titulo{
-    font-size: 50px;
-    color: #103149;
-    text-align: center;
-    text-shadow: 1px 1px 0px black;
-}
-
-img{
-    max-width: 20%;
-    height: auto;
-}
-
-img:hover{
-    max-width: 100%;
-    height: auto;
-}
-
