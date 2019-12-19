@@ -33,5 +33,4 @@ div {
   z-index: 100;
   position: absolute;
   display: inline-block;
-  transition: .5s ease-out;
 }
