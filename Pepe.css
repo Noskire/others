@@ -7,6 +7,8 @@ img:hover{
   z-index: 100;
   position: absolute;
   transition: .5s;
+  left: 0;
+  right: 0;
   top: 150px;
   max-width: 100%;
   height: auto;
