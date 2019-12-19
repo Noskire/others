@@ -18,4 +18,5 @@ div {
 
 #a:hover #b {
   display: inline-block;
+  position: relative;
 }
