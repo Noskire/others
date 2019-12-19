@@ -1,15 +1,14 @@
 img{
   max-width: 20%;
   height: auto;
+  display: inline-block;
 }
 
 img:hover{
   z-index: 100;
   position: absolute;
-  transition: .5s;
-  left: 0;
-  right: 0;
-  top: 150px;
+  transition: .5s ease-out;
+  transform: translate(0, 150px);
   max-width: 100%;
   height: auto;
 }
