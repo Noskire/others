@@ -6,16 +6,16 @@ div {
   width: 100px;
   height: 100px;
   cursor: pointer;
+  text-align: center;
 }
 
 #b {
   width: 500px;
   height: 500px;
   display: none;
+  text-align: center;
 }
 
 #a:hover #b {
-  z-index: 100;
-  position: absolute;
   display: inline-block;
 }
