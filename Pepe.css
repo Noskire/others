@@ -13,10 +13,14 @@ img:hover{
   height: auto;
 }
 
-#b{
-   display: none;
+#a {
+  display: block;
 }
 
-#content:hover~#b{
-   display: block;
+#a:hover + #b {
+  display:block;
 }
+
+#b {
+  display:none;
+  }
