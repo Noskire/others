@@ -12,3 +12,11 @@ img:hover{
   max-width: 100%;
   height: auto;
 }
+
+#b{
+   display: none;
+}
+
+#content:hover~#b{
+   display: block;
+}
