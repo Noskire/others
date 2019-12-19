@@ -2,20 +2,14 @@ div {
   display: inline-block;
 }
 
-#a {
-  width: 100px;
+#t1, #t2, #t3, #t4, #t5{
   height: 100px;
-  cursor: pointer;
-  text-align: center;
+  width: 100px;
 }
 
-#b {
-  width: 500px;
-  height: 500px;
-  display: none;
-  text-align: center;
-}
-
-#a:hover #b {
-  display: inline-block;
+#t1:hover, #t2:hover, #t3:hover, #t4:hover, #t5:hover{
+  height: 400px;
+  width: 400px;
+  transition: .8s;
+  vertical-align: top;
 }
