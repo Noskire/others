@@ -4,6 +4,9 @@ img{
 }
 
 img:hover{
+  z-index: 100;
+  position: absolute;
+  transition: .5s;
   max-width: 100%;
   height: auto;
 }
