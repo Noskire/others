@@ -30,6 +30,7 @@ body {
 .flip-card-front {
   width: 100px;
   height: 100px;
+  margin-top: 200px;
   color: black;
 }
 
